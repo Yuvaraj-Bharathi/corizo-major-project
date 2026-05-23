@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ShopSphere E-commerce</title>
+  <link rel="preconnect" href="https://images.unsplash.com">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <header class="site-header">
+    <button class="brand" id="brandButton" type="button" aria-label="Go to dashboard">
+      <span class="brand-mark">S</span>
+      <span>ShopSphere</span>
+    </button>
+    <nav id="mainNav" class="main-nav" aria-label="Primary navigation"></nav>
+  </header>
+
+  <main id="app" class="app-shell"></main>
+
+  <template id="productCardTemplate">
+    <article class="product-card">
+      <div class="product-media">
+        <img alt="">
+      </div>
+      <div class="product-info">
+        <div>
+          <p class="eyebrow"></p>
+          <h3></h3>
+          <p class="product-description"></p>
+        </div>
+        <div class="product-footer">
+          <strong></strong>
+          <button type="button" class="small-button">View</button>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

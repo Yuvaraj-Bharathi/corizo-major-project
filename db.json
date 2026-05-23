@@ -1,0 +1,467 @@
+{
+  "users": [
+    {
+      "id": "u-demo",
+      "name": "Demo Customer",
+      "email": "customer@example.com",
+      "phone": "9876543210",
+      "passwordHash": "b041c0aeb35bb0fa4aa668ca5a920b590196fdaf9a00eb852c9b7f4d123cc6d6",
+      "address": "MG Road, Bengaluru"
+    }
+  ],
+  "products": [
+    {
+      "id": "p-101",
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": 4599,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Wireless Headphones from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-102",
+      "name": "Smart Fitness Watch",
+      "category": "Electronics",
+      "price": 3999,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Smart Fitness Watch from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-103",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "price": 2299,
+      "stock": 26,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Bluetooth Speaker from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-104",
+      "name": "Portable Power Bank",
+      "category": "Electronics",
+      "price": 1599,
+      "stock": 42,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Portable Power Bank from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-105",
+      "name": "USB-C Fast Charger",
+      "category": "Electronics",
+      "price": 999,
+      "stock": 55,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "USB-C Fast Charger from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-106",
+      "name": "Gaming Mouse",
+      "category": "Electronics",
+      "price": 1499,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Gaming Mouse from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-107",
+      "name": "Mechanical Keyboard",
+      "category": "Electronics",
+      "price": 3299,
+      "stock": 17,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Mechanical Keyboard from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-108",
+      "name": "Web Camera HD",
+      "category": "Electronics",
+      "price": 2499,
+      "stock": 21,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Web Camera HD from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-109",
+      "name": "Tablet Stand",
+      "category": "Electronics",
+      "price": 799,
+      "stock": 48,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Tablet Stand from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-110",
+      "name": "Noise Cancelling Earbuds",
+      "category": "Electronics",
+      "price": 5499,
+      "stock": 13,
+      "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?auto=format&fit=crop&w=900&q=80",
+      "description": "Noise Cancelling Earbuds from our electronics collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-201",
+      "name": "Classic Denim Jacket",
+      "category": "Fashion",
+      "price": 2199,
+      "stock": 24,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Classic Denim Jacket from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-202",
+      "name": "Cotton Casual Shirt",
+      "category": "Fashion",
+      "price": 1199,
+      "stock": 38,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Cotton Casual Shirt from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-203",
+      "name": "Slim Fit Chinos",
+      "category": "Fashion",
+      "price": 1699,
+      "stock": 28,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Slim Fit Chinos from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-204",
+      "name": "Printed Summer Dress",
+      "category": "Fashion",
+      "price": 1899,
+      "stock": 19,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Printed Summer Dress from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-205",
+      "name": "Formal Blazer",
+      "category": "Fashion",
+      "price": 3499,
+      "stock": 12,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Formal Blazer from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-206",
+      "name": "Graphic T-Shirt",
+      "category": "Fashion",
+      "price": 799,
+      "stock": 60,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Graphic T-Shirt from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-207",
+      "name": "Wool Blend Sweater",
+      "category": "Fashion",
+      "price": 1599,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Wool Blend Sweater from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-208",
+      "name": "Athleisure Joggers",
+      "category": "Fashion",
+      "price": 1299,
+      "stock": 34,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Athleisure Joggers from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-209",
+      "name": "Leather Belt",
+      "category": "Fashion",
+      "price": 699,
+      "stock": 52,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Leather Belt from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-210",
+      "name": "Silk Touch Scarf",
+      "category": "Fashion",
+      "price": 899,
+      "stock": 31,
+      "image": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&w=900&q=80",
+      "description": "Silk Touch Scarf from our fashion collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-301",
+      "name": "Urban Runner Sneakers",
+      "category": "Footwear",
+      "price": 2499,
+      "stock": 32,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Urban Runner Sneakers from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-302",
+      "name": "Canvas Walking Shoes",
+      "category": "Footwear",
+      "price": 1399,
+      "stock": 36,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Canvas Walking Shoes from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-303",
+      "name": "Leather Formal Shoes",
+      "category": "Footwear",
+      "price": 2999,
+      "stock": 16,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Leather Formal Shoes from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-304",
+      "name": "Sports Training Shoes",
+      "category": "Footwear",
+      "price": 2799,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Sports Training Shoes from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-305",
+      "name": "Comfort Sandals",
+      "category": "Footwear",
+      "price": 999,
+      "stock": 44,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Comfort Sandals from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-306",
+      "name": "High Top Sneakers",
+      "category": "Footwear",
+      "price": 2199,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "High Top Sneakers from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-307",
+      "name": "Slip-On Loafers",
+      "category": "Footwear",
+      "price": 1899,
+      "stock": 27,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Slip-On Loafers from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-308",
+      "name": "Trekking Boots",
+      "category": "Footwear",
+      "price": 3999,
+      "stock": 11,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Trekking Boots from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-309",
+      "name": "Daily Flip Flops",
+      "category": "Footwear",
+      "price": 499,
+      "stock": 70,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Daily Flip Flops from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-310",
+      "name": "Kids School Shoes",
+      "category": "Footwear",
+      "price": 1199,
+      "stock": 33,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+      "description": "Kids School Shoes from our footwear collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-401",
+      "name": "Ceramic Coffee Set",
+      "category": "Home",
+      "price": 1299,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Ceramic Coffee Set from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-402",
+      "name": "LED Desk Lamp",
+      "category": "Home",
+      "price": 999,
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "LED Desk Lamp from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-403",
+      "name": "Cotton Bedsheet Set",
+      "category": "Home",
+      "price": 1799,
+      "stock": 23,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Cotton Bedsheet Set from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-404",
+      "name": "Wall Clock",
+      "category": "Home",
+      "price": 899,
+      "stock": 35,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Wall Clock from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-405",
+      "name": "Storage Organizer",
+      "category": "Home",
+      "price": 1199,
+      "stock": 29,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Storage Organizer from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-406",
+      "name": "Nonstick Cookware Pan",
+      "category": "Home",
+      "price": 1499,
+      "stock": 24,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Nonstick Cookware Pan from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-407",
+      "name": "Decor Cushion Pair",
+      "category": "Home",
+      "price": 799,
+      "stock": 46,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Decor Cushion Pair from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-408",
+      "name": "Aroma Diffuser",
+      "category": "Home",
+      "price": 1599,
+      "stock": 20,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Aroma Diffuser from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-409",
+      "name": "Dinner Plate Set",
+      "category": "Home",
+      "price": 1999,
+      "stock": 17,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Dinner Plate Set from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-410",
+      "name": "Foldable Study Table",
+      "category": "Home",
+      "price": 2499,
+      "stock": 14,
+      "image": "https://images.unsplash.com/photo-1513161455079-7dc1de15ef3e?auto=format&fit=crop&w=900&q=80",
+      "description": "Foldable Study Table from our home collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-501",
+      "name": "Travel Backpack",
+      "category": "Bags",
+      "price": 1899,
+      "stock": 27,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Travel Backpack from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-502",
+      "name": "Laptop Messenger Bag",
+      "category": "Bags",
+      "price": 2199,
+      "stock": 18,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Laptop Messenger Bag from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-503",
+      "name": "Office Tote Bag",
+      "category": "Bags",
+      "price": 1799,
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Office Tote Bag from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-504",
+      "name": "Weekend Duffle Bag",
+      "category": "Bags",
+      "price": 2499,
+      "stock": 15,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Weekend Duffle Bag from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-505",
+      "name": "School Backpack",
+      "category": "Bags",
+      "price": 1299,
+      "stock": 40,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "School Backpack from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-506",
+      "name": "Mini Sling Bag",
+      "category": "Bags",
+      "price": 899,
+      "stock": 36,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Mini Sling Bag from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-507",
+      "name": "Hard Shell Suitcase",
+      "category": "Bags",
+      "price": 4999,
+      "stock": 10,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Hard Shell Suitcase from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-508",
+      "name": "Gym Training Bag",
+      "category": "Bags",
+      "price": 1599,
+      "stock": 25,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Gym Training Bag from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-509",
+      "name": "Leather Wallet",
+      "category": "Bags",
+      "price": 799,
+      "stock": 58,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Leather Wallet from our bags collection, selected for everyday quality, useful features, and strong value."
+    },
+    {
+      "id": "p-510",
+      "name": "Camera Carry Bag",
+      "category": "Bags",
+      "price": 1999,
+      "stock": 16,
+      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=900&q=80",
+      "description": "Camera Carry Bag from our bags collection, selected for everyday quality, useful features, and strong value."
+    }
+  ],
+  "carts": {},
+  "orders": [],
+  "catalogVersion": "five-categories-ten-products-v1"
+}

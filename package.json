@@ -1,0 +1,16 @@
+{
+  "name": "shopsphere-ecommerce",
+  "version": "1.0.0",
+  "description": "Major project e-commerce website with user and admin modules.",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "node",
+    "major-project"
+  ],
+  "author": "",
+  "license": "MIT"
+}
